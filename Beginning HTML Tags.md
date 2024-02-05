@@ -1,4 +1,3 @@
-markdown
 
 In HTML, you can use various tags to structure your content and add different elements to your webpage. Let's explore some of the basic HTML tags:
 
